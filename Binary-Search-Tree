@@ -1,0 +1,15 @@
+# Binary-Search-Tree
+proje
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+root=4
+
+                            4                Root Satırı
+                         /      \  
+                       1          7          1. Düğüm Satırı
+                      /  \      /   \
+                     0    3    5      8      2. Düğüm Satırı
+                      \              /  \  
+                       2            6     9  3. Düğüm Satırı 
+                 
